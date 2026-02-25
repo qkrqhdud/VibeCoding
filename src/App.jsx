@@ -1,10 +1,10 @@
 import './App.css';
-import Saju from './Saju';
+import PersonalityOracle from './PersonalityOracle';
 
 function App() {
   return (
     <div className="App">
-      <Saju />
+      <PersonalityOracle />
     </div>
   );
 }
